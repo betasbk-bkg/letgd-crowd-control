@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: >-
+  LETG-d: Baseline-Free Real-Time Detection of Coordinated
+  Manipulation in Crowd-Sourced Continuous Control —
+  Code and Data
+message: >-
+  If you use this software or data, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: BongKeun
+    family-names: Song
+    email: betasbk@gmail.com
+    affiliation: >-
+      Department of Chemical and Biological Engineering (CBI),
+      Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+    # orcid: 'https://orcid.org/0000-0000-0000-0000'   # <- add your ORCID if available
+keywords:
+  - crowd-sourced continuous control
+  - manipulation detection
+  - consensus strength
+  - CUSUM
+  - EWMA
+  - adversarial robustness
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-06-07'
+# doi: '10.5281/zenodo.XXXXXXX'   # <- add the Zenodo DOI after upload
