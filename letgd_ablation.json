@@ -1,0 +1,80 @@
+{
+  "step": {
+    "fixed": {
+      "tpr": 0.426,
+      "fpr": 0.38599999999999995,
+      "lat": 0.0,
+      "param": 6
+    },
+    "ewma_only": {
+      "tpr": 0.59,
+      "fpr": 0.488,
+      "lat": 0.0,
+      "param": 5
+    },
+    "cusum_nofreeze": {
+      "tpr": 0.99,
+      "fpr": 0.004,
+      "lat": 2.0,
+      "param": 10
+    },
+    "proposed": {
+      "tpr": 0.984,
+      "fpr": 0.027999999999999997,
+      "lat": 2.4,
+      "param": 14
+    }
+  },
+  "ramp_fast": {
+    "fixed": {
+      "tpr": 0.072,
+      "fpr": 0.38599999999999995,
+      "lat": 39.1,
+      "param": 6
+    },
+    "ewma_only": {
+      "tpr": 0.132,
+      "fpr": 0.488,
+      "lat": 80.0,
+      "param": 5
+    },
+    "cusum_nofreeze": {
+      "tpr": 1.0,
+      "fpr": 0.004,
+      "lat": 8.6,
+      "param": 10
+    },
+    "proposed": {
+      "tpr": 1.0,
+      "fpr": 0.0,
+      "lat": 15.6,
+      "param": 20
+    }
+  },
+  "ramp_slow": {
+    "fixed": {
+      "tpr": 0.12200000000000003,
+      "fpr": 0.38599999999999995,
+      "lat": 56.5,
+      "param": 6
+    },
+    "ewma_only": {
+      "tpr": 0.20400000000000001,
+      "fpr": 0.488,
+      "lat": 53.4,
+      "param": 5
+    },
+    "cusum_nofreeze": {
+      "tpr": 0.852,
+      "fpr": 0.09,
+      "lat": 13.1,
+      "param": 7
+    },
+    "proposed": {
+      "tpr": 0.9640000000000001,
+      "fpr": 0.027999999999999997,
+      "lat": 20.7,
+      "param": 14
+    }
+  }
+}
