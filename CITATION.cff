@@ -11,9 +11,7 @@ authors:
   - given-names: BongKeun
     family-names: Song
     email: betasbk@gmail.com
-    affiliation: >-
-      Department of Chemical and Biological Engineering (CBI),
-      Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+    affiliation: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
     # orcid: 'https://orcid.org/0000-0000-0000-0000'   # <- add your ORCID if available
 keywords:
   - crowd-sourced continuous control
@@ -22,7 +20,8 @@ keywords:
   - CUSUM
   - EWMA
   - adversarial robustness
+  - parameter sensitivity
 license: CC-BY-4.0
-version: 1.0.0
-date-released: '2026-06-07'
+version: 1.3.0
+date-released: '2026-07-21'
 # doi: '10.5281/zenodo.XXXXXXX'   # <- add the Zenodo DOI after upload
