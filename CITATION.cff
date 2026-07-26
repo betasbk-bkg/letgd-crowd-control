@@ -12,7 +12,7 @@ authors:
     family-names: Song
     email: betasbk@gmail.com
     affiliation: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
-    # orcid: 'https://orcid.org/0000-0000-0000-0000'   # <- add your ORCID if available
+    orcid: 'https://orcid.org/0009-0008-3120-8126'
 keywords:
   - crowd-sourced continuous control
   - manipulation detection
@@ -24,4 +24,4 @@ keywords:
 license: CC-BY-4.0
 version: 1.3.0
 date-released: '2026-07-21'
-# doi: '10.5281/zenodo.XXXXXXX'   # <- add the Zenodo DOI after upload
+doi: '10.5281/zenodo.21556275'
